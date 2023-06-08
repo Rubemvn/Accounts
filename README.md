@@ -11,4 +11,8 @@ Onde o usuário tem as seguintes opções:
 * Sacar
 * Sair
 
+## Passo a passo para instalar o Accounts: 
+* Verifique se o node e o npm estão instalados corretamente. 
+* Para instalar o accounts abra o terminal, navegue até a pasta do projeto e digite: 'npm install'
+* Ao concluir para iniciar o accounts digite no terminal: 'npm start' ou 'npm run start'
 <!-- continua -->
